@@ -305,7 +305,6 @@ const App = ({ id, owned, close, expires }) => {
 
     return (
         <div className="fullSlot">
-            <h1 className="casinoName">casino montecarlo</h1>
             <h1 className="price">{"Jackpot: " + jackpot + "€"}</h1>
             <div className="slot">
                 <div className="row">
